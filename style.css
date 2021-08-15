@@ -1,0 +1,11 @@
+#Birth{
+    display: none;
+}
+#BDY{
+    height: 300px;
+    Width: 300px;
+    border-width:10px;
+    border-style:ridge;
+    display:none;
+}
+
